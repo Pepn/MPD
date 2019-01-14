@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">421600852651</string>
+    <!-- package_name -->
+    <string name="package_name" translatable="false">com.pepn.game</string>
+    <!-- achievement Builder! -->
+    <string name="achievement_builder" translatable="false">CgkIq_X5yqIMEAIQAQ</string>
+    <!-- achievement Live Long -->
+    <string name="achievement_live_long" translatable="false">CgkIq_X5yqIMEAIQAg</string>
+    <!-- achievement Build a long path! -->
+    <string name="achievement_build_a_long_path" translatable="false">CgkIq_X5yqIMEAIQAw</string>
+    <!-- achievement Maze builder -->
+    <string name="achievement_maze_builder" translatable="false">CgkIq_X5yqIMEAIQBA</string>
+    <!-- achievement PRO -->
+    <string name="achievement_pro" translatable="false">CgkIq_X5yqIMEAIQBQ</string>
+</resources>
